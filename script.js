@@ -89,7 +89,7 @@ function submit(e){
         return;
     }else{
         alert("Registration success!");
-        window.location.href = './index.html'; 
+        window.location.href = 'index.html'; 
     }
 }
 
