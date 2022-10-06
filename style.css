@@ -196,7 +196,7 @@
     width: 100%;
     margin-top: 79px;
     height: 650px;
-    background-image: url("../assets/LaforantHeaderBgComplete.png");
+    background-image: url("assets/LaforantHeaderBgComplete.png");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -233,7 +233,7 @@
 .content-top{
     width: 100%;
     height: 1300px;
-    background-image: url("../assets/LaforantLineCurveBgComplete.png");
+    background-image: url("assets/LaforantLineCurveBgComplete.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 80px 100px;
@@ -329,7 +329,7 @@
 .content-bottom{
     width: 100%;
     height: 700px;
-    background-image: url("../assets/LaforantMap.jpg");
+    background-image: url("assets/LaforantMap.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -460,7 +460,7 @@
     margin-top: 80px;
     height: 750px;
     padding: 20px 0;
-    background-image: url("../assets/form/Form\ background.png");
+    background-image: url("assets/form/Form\ background.png");
     background-size: cover;
     width: 100%;
 }
@@ -528,7 +528,7 @@ select, input[type=email], input[type=text], input[type=date], input[type=passwo
     margin-top: 80px;
     height: 545px;
     padding: 225px 0;
-    background-image: url("../assets/form/Form\ background.png");
+    background-image: url("assets/form/Form\ background.png");
     background-size: cover;
     width: 100%;
 }
@@ -647,17 +647,17 @@ select, input[type=email], input[type=text], input[type=date], input[type=passwo
 }
 
 #ascent{
-    background-image: url("../assets/maps/ascent/Ascent\ Loading\ Screen.png");
+    background-image: url("assets/maps/ascent/Ascent\ Loading\ Screen.png");
     background-size: cover;
 }
 
 #breeze{
-    background-image: url("../assets/maps/breeze/Breeze\ Loading\ Screen.png");
+    background-image: url("assets/maps/breeze/Breeze\ Loading\ Screen.png");
     background-size: cover;
 }
 
 #haven{
-    background-image: url("../assets/maps/haven/Haven\ Loading\ Screen.png");
+    background-image: url("assets/maps/haven/Haven\ Loading\ Screen.png");
     background-size: cover;
 }
 
@@ -864,7 +864,7 @@ select, input[type=email], input[type=text], input[type=date], input[type=passwo
     margin-top: 80px;
     height: 545px;
     padding: 65px 80px;
-    background-image: url("../assets/agents/Agents\ background.png ");
+    background-image: url("assets/agents/Agents\ background.png ");
     background-size: cover;
 }
 
