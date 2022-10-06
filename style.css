@@ -662,7 +662,7 @@ select, input[type=email], input[type=text], input[type=date], input[type=passwo
 }
 
 #split{
-    background-image: url("../assets/maps/split/Split\ Loading\ Screen.png");
+    background-image: url("assets/maps/split/Split\ Loading\ Screen.png");
     background-size: cover;
 }
 
